@@ -54,3 +54,4 @@ visualize open city data to make renters' lives easier
 
 # METHODOLOGY
 * Voronoi tesselation - distance to nearest bus stop / transit 
+* Walking distances - https://geoffboeing.com/2016/11/osmnx-python-street-networks/
