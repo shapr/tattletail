@@ -49,3 +49,4 @@ visualize open city data to make renters' lives easier
 * Affordability of houses
 * 15 minute city? stretch...
 * Green / sustainable construction?
+* Distance from A1 and A2 roads 
