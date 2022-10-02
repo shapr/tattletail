@@ -36,6 +36,7 @@ visualize open city data to make renters' lives easier
 # DATA SOURCES
 * open city maps (dependent on city) - i.e. https://data.boston.gov/dataset/rentsmart
 * https://resilience.climate.gov/#open-data
+* https://maps.dot.gov/BTS/NationalTransportationNoiseMap/
 
 # POSSIBLE metrics
 * Number of sunny days / amount of daylight
@@ -50,3 +51,6 @@ visualize open city data to make renters' lives easier
 * 15 minute city? stretch...
 * Green / sustainable construction?
 * Distance from A1 and A2 roads 
+
+# METHODOLOGY
+* Voronoi tesselation - distance to nearest bus stop / transit 
